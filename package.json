@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/robintimmis/FizzBuzz/issues"
   },
-  "homepage": "https://github.com/robintimmis/FizzBuzz#readme"
+  "homepage": "https://github.com/robintimmis/FizzBuzz#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
